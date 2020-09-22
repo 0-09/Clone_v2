@@ -10,10 +10,12 @@
 <img title="Forks" src="https://img.shields.io/github/forks/Tegar-ID/Phish?color=red&style=flat-square"></a>
 <a href="https://github.com/Tegar-ID/Phish/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tegar-ID/Phish?label=Watchers&color=blue&style=flat-square"></a>
 </p> 
+
 # Clone Email
 + clone id facebook with email
 + fast clone
 + 90% OK
++ all country
 
 # INSTALL
 ```php
